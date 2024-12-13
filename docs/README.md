@@ -1,10 +1,11 @@
-# gello
+# 第一阶段
 
-3232
+**推荐学习路线** [B 站 objtube 的卢克儿前端学习路线](https://objtube.github.io/front-end-roadmap/#/)
 
-## hello
+![图片](./images/first-0.png)
 
-1212
-::: tip
-这是一个提示
-:::
+## HTML
+
+`菜鸟教程` HTML 篇认真做笔记+练习走下来，HTML5 看看就行
+
+## CSS

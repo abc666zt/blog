@@ -6,29 +6,23 @@ export default defineUserConfig({
   title: "前端笔记",
   bundler: viteBundler(),
   theme: defaultTheme({
-    // 默认主题配置
     navbar: [
       { text: "首页", link: "/" },
       { text: "其他", link: "/test/" },
     ],
     sidebar: [
-      // SidebarItem
       {
-        text: 'Foo',
-        link: '/',
-        children: [
-          {
-            text: 'github',
-            link: 'https://github.com',
-          },
-          // 字符串 - 页面文件路径
-        ],
+        text: "第一阶段",
+        link: "/"
       },
       {
-        text: 'test',
-        link: '/test/README.md',
-      }
-      ,
+        text: "HTML",
+        link: "/myhtml/README.md"
+      },
+      {
+        text: "test",
+        link: "/test/README.md",
+      },
     ],
   }),
 });
