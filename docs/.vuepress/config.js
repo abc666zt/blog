@@ -20,6 +20,14 @@ export default defineUserConfig({
         link: "/myhtml/README.md"
       },
       {
+        text: "CSS",
+        link: "/mycss/README.md"
+      },
+      {
+        text: "JavaScript",
+        link: "/myjs/README.md"
+      },
+      {
         text: "test",
         link: "/test/README.md",
       },
