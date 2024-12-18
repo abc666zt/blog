@@ -12,24 +12,32 @@ export default defineUserConfig({
     ],
     sidebar: [
       {
-        text: "第一阶段",
+        text: "开始",
         link: "/"
       },
       {
+        text: "第一阶段",
+        link: "/one/README.md"
+      },
+      {
         text: "HTML",
-        link: "/myhtml/README.md"
+        link: "/one/myhtml/README.md"
       },
       {
         text: "CSS",
-        link: "/mycss/README.md"
+        link: "/one/mycss/README.md"
       },
       {
         text: "JavaScript",
-        link: "/myjs/README.md"
+        link: "/one/myjs/README.md"
       },
       {
-        text: "test",
-        link: "/test/README.md",
+        text: "第二阶段",
+        link: "/two/README.md",
+      },
+      {
+        text: "CSS预处理",
+        link: "/two/myless/README.md",
       },
     ],
   }),

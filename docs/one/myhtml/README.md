@@ -6,7 +6,7 @@
 
 **思维导图**
 
-![图片](../images/html-0.png)
+![图片](../../images/html-0.png)
 
 ## 01.HTML 简介
 
@@ -283,4 +283,4 @@ Canvas 通过 JavaScript 来绘制 2D 图形
 <footer>
 ```
 
-![图片](../images/html-12.png)
+![图片](../../images/html-12.png)
