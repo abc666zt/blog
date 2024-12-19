@@ -8,9 +8,9 @@ export const routes = Object.fromEntries([
   ["/one/myhtml/", { loader: () => import(/* webpackChunkName: "one_myhtml_index.html" */"D:/AAATool/静态博客/myblog/docs/.vuepress/.temp/pages/one/myhtml/index.html.js"), meta: {"title":"HTML"} }],
   ["/one/myjs/", { loader: () => import(/* webpackChunkName: "one_myjs_index.html" */"D:/AAATool/静态博客/myblog/docs/.vuepress/.temp/pages/one/myjs/index.html.js"), meta: {"title":"ECMAScript"} }],
   ["/two/myless/", { loader: () => import(/* webpackChunkName: "two_myless_index.html" */"D:/AAATool/静态博客/myblog/docs/.vuepress/.temp/pages/two/myless/index.html.js"), meta: {"title":"Less"} }],
-  ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"D:/AAATool/静态博客/myblog/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
-  ["/two/myvue/", { loader: () => import(/* webpackChunkName: "two_myvue_index.html" */"D:/AAATool/静态博客/myblog/docs/.vuepress/.temp/pages/two/myvue/index.html.js"), meta: {"title":"Vue"} }],
   ["/two/myreact/", { loader: () => import(/* webpackChunkName: "two_myreact_index.html" */"D:/AAATool/静态博客/myblog/docs/.vuepress/.temp/pages/two/myreact/index.html.js"), meta: {"title":"React"} }],
+  ["/two/myvue/", { loader: () => import(/* webpackChunkName: "two_myvue_index.html" */"D:/AAATool/静态博客/myblog/docs/.vuepress/.temp/pages/two/myvue/index.html.js"), meta: {"title":"Vue"} }],
+  ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"D:/AAATool/静态博客/myblog/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
 ]);
 
 if (import.meta.webpackHot) {

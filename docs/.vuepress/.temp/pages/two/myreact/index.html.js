@@ -1,5 +1,5 @@
 import comp from "D:/AAATool/静态博客/myblog/docs/.vuepress/.temp/pages/two/myreact/index.html.vue"
-const data = JSON.parse("{\"path\":\"/two/myreact/\",\"title\":\"React\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"two/myreact/README.md\"}")
+const data = JSON.parse("{\"path\":\"/two/myreact/\",\"title\":\"React\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1734522976000},\"filePathRelative\":\"two/myreact/README.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
